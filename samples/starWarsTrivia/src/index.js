@@ -21,247 +21,180 @@
  */
 var questions = [
     {
-        "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-            "13,000",
-            "1,200",
-            "5,000",
-            "700",
-            "1,000",
-            "120,000"
+        "How many Star Wars movies has Jar Jar Binks been in?": [
+            "3",
+            "2",
+            "4",
+            "1",
+            "0"
         ]
     },
     {
-        "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in:": [
-            "Japan",
-            "United States",
-            "Finland",
-            "Germany"
+        "What species is Jar Jar Binks?": [
+            "Gungan",
+            "Human",
+            "Ewok",
+            "Droid"
         ]
     },
     {
-        "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-            "Wunorse Openslae",
-            "Alabaster Snowball",
-            "Bushy Evergreen",
-            "Pepper Minstix"
+        "What color are Jar Jar Binks' eyes?": [
+            "Yellow",
+            "Green",
+            "Blue",
+            "Pink",
+            "Orange",
+            "Dead Inside.",
+            "The color of a television that is tuned to a dead channel."
         ]
     },
     {
-        "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be:": [
-            "Girls",
-            "Boys",
-            "Girls and boys",
-            "No way to tell"
+        "Did Han shoot first?": [
+            "Yes",
+            "No",
+            "Maybe",
+            "Who Cares.",
+            "No, George Lucas did."
         ]
     },
     {
-        "What do Reindeer eat?": [
-            "Lichen",
-            "Grasses",
-            "Leaves",
-            "Berries"
+        "What type of creature ensnares Luke in the garbage trap on the Death Star in Star Wars: A New Hope?": [
+            "Dianoga",
+            "Gungan",
+            "Bantha",
+            "Rodian",
+            "Hutt"
         ]
     },
     {
-        "What of the following is not true?": [
-            "Caribou live on all continents",
-            "Both reindeer and Caribou are the same species",
-            "Caribou are bigger than reindeer",
-            "Reindeer live in Scandinavia and Russia"
+        "What type of droid is R2-D2?": [
+            "Astromech Droid",
+            "Sentinel Droid",
+            "3PO Unit",
+            "Smelter Droid"
         ]
     },
     {
-        "In what year did Rudolph make his television debut?": [
-            "1964",
-            "1979",
-            "2000",
-            "1956"
+        "What does TIE in TIE Fighter stand for?": [
+            "Twin Ion Engines",
+            "Twin Inescapable Engines",
+            "Turbo Interactive Engines",
+            "Twin Interactive Engines"
         ]
     },
     {
-        "Who was the voice of Rudolph in the 1964 classic?": [
-            "Billie Mae Richards",
-            "Burl Ives",
-            "Paul Soles",
-            "Lady Gaga"
+        "What color is the light saber that Luke Skywalker constructs in episode six?": [
+            "Green",
+            "Blue",
+            "Red",
+            "Purple"
         ]
     },
     {
-        "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-            "Montgomery Ward",
-            "Sears",
-            "Macys",
-            "Kmart"
+        "What color is Mace Windu's light saber?": [
+            "Purple",
+            "Blue",
+            "Red",
+            "Purple"
         ]
     },
     {
-        "Santa's reindeer named Donner was originally named what?": [
-            "Dunder",
-            "Donny",
-            "Dweedle",
-            "Dreamy"
+        "What Does AT-AT stand for?": [
+            "All Terrain Armored Transport",
+            "All Terrain Attack Transport",
+            "All Terrain Attack Tank",
+            "All Terrain Armored Tank"
         ]
     },
     {
-        "Who invented the story of Rudolph?": [
-            "Robert May",
-            "Johnny Marks",
-            "Santa",
-            "J.K. Rowling"
+        "What Does AT-ST stand for?": [
+            "All Terrain Scout Transport",
+            "All Terrain Simple Transport",
+            "All Terrain Scout Tank",
+            "All Terrain Simple Tank"
         ]
     },
     {
-        "In what location will you not find reindeer?": [
-            "North Pole",
-            "Lapland",
-            "Korvatunturi mountain",
-            "Finland"
+        "What type of vehicle do the rebels use to take down AT-ATs in Star Wars: The Empire Strikes Back?": [
+            "Snowspeeders",
+            "X-Wings",
+            "B-Wings",
+            "A-Wings"
         ]
     },
     {
-        "What Makes Santa's Reindeer Fly?": [
-            "Magical Reindeer Dust",
-            "Fusion",
-            "Amanita muscaria",
-            "Elves"
+        "Who is Lando Calrissian's Co-Pilot when he destroys the Death Star in Star Wars: Return of the Jedi?": [
+            "Nien Nunb",
+            "Chewbacca",
+            "Han Solo",
+            "Admiral Ackbar"
         ]
     },
     {
-        "Including Rudolph, how many reindeer hooves are there?": [
-            "36",
-            "24",
-            "16",
-            "8"
+        "Who is the character who has the famous line \"It's a trap!\" in Star Wars: Return of the Jedi?": [
+            "Admiral Ackbar",
+            "Han Solo",
+            "Luke Skylwalker",
+            "Leia Skywalker"
         ]
     },
     {
-        "Santa only has one female reindeer. Which one is it?": [
-            "Vixen",
-            "Clarice",
-            "Cupid",
-            "Cupid"
+        "What is the name of the pit where Jabba takes Luke Skywalker and Han Solo t be killed in Star Wars: Return of the Jedi?": [
+            "Pit of Carkoon",
+            "Pit of Sarlacc",
+            "Pit of Tattooine",
+            "Pit of Hutt"
         ]
     },
     {
-        "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-            "Sam",
-            "Frosty",
-            "Burl",
-            "Snowy"
+        "What is the name of the creature which resides in the Pit of Carkoon?": [
+            "Sarlacc",
+            "Bossk",
+            "Greedo",
+            "Nien Nunb"
         ]
     },
     {
-        "What was Rudolph's father's name?": [
-            "Donner",
-            "Dasher",
-            "Blixen",
-            "Comet"
+        "What is the name of Boba Fett's ship in Star Wars: Return of the Jedi?": [
+            "Slave II",
+            "Slave I",
+            "Slave",
+            "Slave III"
         ]
     },
     {
-        "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-            "Comet",
-            "Blixen",
-            "Donner",
-            "Dasher"
+        "Which bounty hunter successfully captures Han Solo in Star Wars: The Empire Strikes Back?": [
+            "Boba Fett",
+            "Jango Fett",
+            "IG-88",
+            "Bossk",
+            "Dengar"
         ]
     },
     {
-        "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-            "Fireball",
-            "Clarice",
-            "Jumper",
-            "Vixen"
+        "What type of creature does Luke Skylwalker battle in Jabba the Hutt's palace in Star Wars: Return of the Jedi?": [
+            "Rancor",
+            "Dianoga",
+            "Bantha",
+            "Kowakian Monkey Lizard"
         ]
     },
     {
-        "In the 1964 movie, How did Donner, Rudolph's father, try to hide Rudolph's nose?": [
-            "Black mud",
-            "Bag",
-            "Pillow case",
-            "Sock"
+        "What is the name of Jabba the Hutt's jester in Star Wars: Return of the Jedi?": [
+            "Salacious Crumb",
+            "Nien Nunb",
+            "Max Rebo",
+            "Sy Snoodles"
         ]
     },
     {
-        "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-            "Dentist",
-            "Reindeer",
-            "Toy maker",
-            "Candlestick maker"
+        "What is the name of the band at Jabba the Hutt's palace in Star Wars: Return of the Jedi?": [
+            "The Max Rebo Band",
+            "Salacious Crumb and Co.",
+            "Jabba's Jammers",
+            "Palace Rockers"
         ]
     },
-    {
-        "In the 1964 movie,what was the Bumble's one weakness?": [
-            "Could not swim",
-            "Always hungry",
-            "Candy canes",
-            "Cross eyed"
-        ]
-    },
-    {
-        "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-            "Peppermint",
-            "Gold",
-            "India",
-            "Polar Bears"
-        ]
-    },
-    {
-        "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-            "Square wheels",
-            "No Engine",
-            "Paint does not match",
-            "It does not toot"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the Jack in the Box?": [
-            "Charlie",
-            "Sam",
-            "Billy",
-            "Jack"
-        ]
-    },
-    {
-        "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-            "Storm",
-            "No snow",
-            "No toys",
-            "The Reindeer were sick"
-        ]
-    },
-    {
-        "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-            "Oink",
-            "Growl",
-            "Bark",
-            "Meow"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the prospector?": [
-            "Yukon Cornelius",
-            "Slider Sam",
-            "Bumble",
-            "Jack"
-        ]
-    },
-    {
-        "How far do reindeer travel when they migrate?": [
-            "3000 miles",
-            "700 miles",
-            "500 miles",
-            "0 miles"
-        ]
-    },
-    {
-        "How fast can a reindeer run?": [
-            "48 miles per hour",
-            "17 miles per hour",
-            "19 miles per hour",
-            "14 miles per hour"
-        ]
-    }
 ];
 
 // Route the incoming request based on type (LaunchRequest, IntentRequest,
@@ -275,9 +208,9 @@ exports.handler = function (event, context) {
          * prevent someone else from configuring a skill that sends requests to this function.
          */
 
-//     if (event.session.application.applicationId !== "amzn1.echo-sdk-ams.app.05aecccb3-1461-48fb-a008-822ddrt6b516") {
-//         context.fail("Invalid Application ID");
-//      }
+        if (event.session.application.applicationId !== "amzn1.echo-sdk-ams.app.17fbb6d9-1456-4add-be84-2cb6dff3008b") {
+            context.fail("Invalid Application ID");
+         }
 
         if (event.session.new) {
             onSessionStarted({requestId: event.request.requestId}, event.session);
@@ -385,11 +318,11 @@ function onSessionEnded(sessionEndedRequest, session) {
 
 var ANSWER_COUNT = 4;
 var GAME_LENGTH = 5;
-var CARD_TITLE = "Reindeer Games"; // Be sure to change this for your skill.
+var CARD_TITLE = "Star Wars Trivia"; // Be sure to change this for your skill.
 
 function getWelcomeResponse(callback) {
     var sessionAttributes = {},
-        speechOutput = "Reindeer Games. I will ask you " + GAME_LENGTH.toString()
+        speechOutput = "Star Wars Trivia. I will ask you " + GAME_LENGTH.toString()
             + " questions, try to get as many right as you can. Just say the number of the answer. Let's begin. ",
         shouldEndSession = false,
 
@@ -649,4 +582,3 @@ function buildResponse(sessionAttributes, speechletResponse) {
         response: speechletResponse
     };
 }
-
