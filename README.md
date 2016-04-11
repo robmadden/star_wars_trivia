@@ -1,6 +1,10 @@
+# Built from [New Alexa Skills Kit Template: Build a Trivia Skill in under an Hour](https://developer.amazon.com/appsandservices/community/post/TxDJWS16KUPVKO/New-Alexa-Skills-Kit-Template-Build-a-Trivia-Skill-in-under-an-Hour)
+
+I changed the ReindeerGames skill to a StarWarsTrivia skill. StarWarsTrivia contains basic trivia pertaining to the Star Wars Universe.
+
 # Node.js Alexa Skills Kit Samples
 
-##Alexa Skills Kit Documentation
+## Alexa Skills Kit Documentation
 The documentation for the Alexa Skills Kit is available on the [Amazon Apps and Services Developer Portal](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/).
 
 ## Contents
@@ -9,7 +13,7 @@ The following samples are included (ordered by complexity, see the Using Alexa S
 link below for more details):
 
 - SpaceGeek : a simple skill that responds to the user with a space fact.
-- ReindeerGames: a simple skill that plays trivia quiz questions
+- StarWarsTrivia: a simple skill that plays trivia Star Wars related questions
 - MinecraftHelper : a simple skill that responds to the user's recipe queries with formulas.
 - WiseGuy : a skill that tells knock knock jokes.
 - HistoryBuff : a skill that gives historical information that happened on a user provided day.
