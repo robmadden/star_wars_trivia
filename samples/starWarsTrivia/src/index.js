@@ -209,7 +209,7 @@ exports.handler = function (event, context) {
          */
 
         if (event.session.application.applicationId !== "amzn1.echo-sdk-ams.app.17fbb6d9-1456-4add-be84-2cb6dff3008b") {
-            context.fail("Invalid Application ID");
+            return context.fail("Invalid Application ID");
          }
 
         if (event.session.new) {
