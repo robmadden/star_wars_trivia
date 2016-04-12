@@ -1,0 +1,29 @@
+{
+  "name": "star_wars_trivia",
+  "version": "1.0.0",
+  "description": "Star Wars Trivia Alexa Game",
+  "main": "sample/starWarsTrivia/src/index.js",
+  "scripts": {
+    "test": "lab -c -r html -o coverage.html -r console -o stdout samples/starWarsTrivia/test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robmadden/star_wars_trivia.git"
+  },
+  "keywords": [
+    "alexa",
+    "game",
+    "trivia",
+    "star wars"
+  ],
+  "author": "Rob Madden",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/robmadden/star_wars_trivia/issues"
+  },
+  "homepage": "https://github.com/robmadden/star_wars_trivia#readme",
+  "devDependencies": {
+    "code": "2.2.0",
+    "lab": "10.3.1"
+  }
+}
