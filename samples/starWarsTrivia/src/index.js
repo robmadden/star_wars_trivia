@@ -21,6 +21,165 @@
  */
 var questions = [
     {
+        "Who said, 'I am altering the deal. Pray I don't alter it any further.'?": [
+            "Darth Vader.",
+            "Jabba the Hutt.",
+            "Grand Moff Tarkin.",
+            "Lando Calrissian.",
+            "Darth Sidious."
+        ]
+    },
+    {
+        "What was the original name of 'Return of the Jedi'?": [
+            "Revenge of the Jedi.",
+            "The New Republic.",
+            "The End of the Empire.",
+            "The End of the Sith."
+        ]
+    },
+    {
+        "Who killed Jango Fett?": [
+            "Mace Windu.",
+            "Obi Wan Kenobi.",
+            "Qui Gon Jinn.",
+            "Luke Skywalker."
+        ]
+    },
+    {
+        "Who played Lando Calrissian?": [
+            "Billy Dee Williams.",
+            "Carl Weathers.",
+            "Eddie Murphy.",
+            "John Williams."
+        ]
+    },
+    {
+        "Who was the concept artist who helped George Lucas with the look and feel of Star Wars?": [
+            "Ralph McQuarrie.",
+            ".",
+            "Luke Skywalker.",
+            "Leia Skywalker.",
+            "Obi-Wan Kenobi."
+        ]
+    },
+    {
+        "Who said, 'Why, you slimy, double-crossing, no-good swindler.'?": [
+            "Lando Calrissian.",
+            "Han Solo.",
+            "Luke Skywalker.",
+            "Leia Skywalker.",
+            "Obi-Wan Kenobi."
+        ]
+    },
+    {
+        "Whose DNA was used in the creation of the Clone Army in Episode Two: Attack of the Clones?": [
+            "Jango Fett.",
+            "Boba Fett.",
+            "Darth Vader.",
+            "Darth Maul.",
+            "Darth Sidious."
+        ]
+    },
+    {
+        "Which of these was not one of Darth Sidious' Sith apprentices?": [
+            "General Greivous.",
+            "Darth Maul.",
+            "Darth Vader.",
+            "Darth Tyranus.",
+            "Darth Plagueis."
+        ]
+    },
+    {
+        "Who's the only rebel pilot to survive all three movies in the original trilogy besides Luke Skywalker?": [
+            "Wedge Antilles.",
+            "Jek Porkins.",
+            "Biggs Darklighter.",
+            "Garven Dreis.",
+            "John D. Branon."
+        ]
+    },
+    {
+        "Where was Luke Skywalker originally headed to pick up power converters?": [
+            "Tosche Station.",
+            "Mos Eisley Space Station.",
+            "Mos Eisley Cantina.",
+            "Tusken Village.",
+            "Mos Espa"
+        ]
+    },
+    {
+        "Darth Vader's chestpiece has some writing on it. What language is it in, and what does it translate to?": [
+            "His deeds will not be forgiven, until he merits.",
+            "To whom much is given, much is tested.",
+            "I live, I die. I live again.",
+            "Through strength, I gain power.",
+            "Through power, I gain victory."
+        ]
+    },
+    {
+        "Who originally commanded the Death Star in Episode Four: A New Hope?": [
+            "Grand Moff Tarkin",
+            "Darth Vader",
+            "Admiral Conan Antonio Motti",
+            "General Trech Molock",
+            "Colonel Wullf Yularen"
+        ]
+    },
+    {
+        "Who is Lando Calrissian's co-pilot in Episode Six: Return of the Jedi?": [
+            "Nien Nunb",
+            "Han Solo",
+            "Chewbacca",
+            "Wedge Antilles",
+            "Admiral Ackbar"
+        ]
+    },
+    {
+        "What odds does C-3P0 give Han Solo for successfully navigating an asteroid field?": [
+            "3,720 to 1.",
+            "10,000 to 1.",
+            "5,000 to 1.",
+            "5,720 to 1.",
+            "2,720 to 1."
+        ]
+    },
+    {
+        "Which species stole plans to the Death Star in Return of the Jedi?": [
+            "Bothans",
+            "Ewoks",
+            "Wookiees",
+            "Banthas",
+            "Jawas"
+        ]
+    },
+    {
+        "What is the Wookiee home world?": [
+            "Kashyyyk",
+            "Endor",
+            "Tattoine",
+            "Jakku",
+            "Alderan"
+        ]
+    },
+    {
+        "How many languages can C3PO speak": [
+            "Over six million",
+            "Five thousand",
+            "One million",
+            "Five million",
+            "Two million"
+        ]
+    },
+    {
+        "What were Luke's aunt and uncle's job on Tatooine?": [
+            "Moisture Farmers",
+            "Spice Farmers",
+            "Traders",
+            "Pod Racer Mechanics",
+            "Bantha Milk Farmers"
+        ]
+    },
+    {
         "How many Star Wars movies has Jar Jar Binks been in?": [
             "3",
             "2",
